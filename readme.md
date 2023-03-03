@@ -17,7 +17,7 @@ I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very
 
 
 
-## Projects 
+## Projects 👔
 
 ### [Vivero Henry](https://vivero-henry.vercel.app/)
 Vivero Henry is an e-commerce platform for plants and supplies that I developed with a talented team of developers during my time at HENRY. The website was built using modern web development technologies, including React, Redux, Node.js, and PostgreSQL, and is deployed on Vercel and Railway. Our team worked on all aspects of the project, from designing and implementing the user interface to building the backend API and integrating payment and shipping services.
@@ -46,11 +46,11 @@ Overall, Dogs CRUD was an exciting and challenging project that gave me a solid 
 #### March 2023 🏁
 After more than 5 months of intensive training at HENRY, I'm proud to have earned my Fullstack Developer certification. Throughout the program, I gained expertise in a wide range of technologies, including frameworks and libraries. More importantly, I developed the skills to learn quickly and efficiently by diving into documentation, which will undoubtedly serve me well as I continue to grow in my career as a developer.
 
-## Stats
+## Stats 📈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziocl)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact
+## Contact 
 
 - [Email](mailto:fabriziocl1990@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fabrizio-castro-l%C3%B3pez-b949b2208/)
