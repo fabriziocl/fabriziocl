@@ -41,5 +41,5 @@ After more than 5 months that included lots of ups and downs, I can state that I
 
 ## Contact
 
-- [Email](emailto:fabriziocl1990@gmail.com)
+- [Email](fabriziocl1990@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fabrizio-castro-l%C3%B3pez-b949b2208/)
