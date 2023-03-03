@@ -26,6 +26,9 @@ One of the most exciting aspects of working on Vivero Henry was the opportunity 
 
 Overall, the project was a fantastic opportunity to gain hands-on experience with modern web development tools and techniques and to work collaboratively with a team of passionate developers.
 
+[Front-end repo](https://github.com/bosxch/PF-Henry/tree/master/client/front)
+[Back-end repo](https://github.com/GiuGobbi/PF-henry)
+
 ### [Dogs CRUD](https://dogs-ip.vercel.app/)
 
 Dogs CRUD was my very first experience creating a full CRUD (Create, Read, Update, Delete) application, and it was an exciting and challenging project. The goal of the project was to build a simple web application that allowed users to create, view, edit, and delete information about dogs.
@@ -38,6 +41,7 @@ Despite the challenges, I found the project to be a fantastic learning experienc
 
 Overall, Dogs CRUD was an exciting and challenging project that gave me a solid foundation in full-stack web development and sparked my passion for building web applications.
 
+[GitHub front and backend repo](https://github.com/fabriziocl/Dogs)
 
 ## Education 🎓
 
