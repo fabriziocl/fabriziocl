@@ -26,8 +26,8 @@ One of the most exciting aspects of working on Vivero Henry was the opportunity 
 
 Overall, the project was a fantastic opportunity to gain hands-on experience with modern web development tools and techniques and to work collaboratively with a team of passionate developers.
 
-[Front-end repo](https://github.com/bosxch/PF-Henry/tree/master/client/front)
-[Back-end repo](https://github.com/GiuGobbi/PF-henry)
+##### [Front-end repo](https://github.com/bosxch/PF-Henry/tree/master/client/front)
+##### [Back-end repo](https://github.com/GiuGobbi/PF-henry)
 
 ### [Dogs CRUD](https://dogs-ip.vercel.app/)
 
