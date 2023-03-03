@@ -1,62 +1,45 @@
 # Hello world! 👋
 
-I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very much learning new languages and frameworks, up to now, I've learned these techs that can be read next.
+I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very much learning new languages and frameworks, and up to now, I've learned these techs that can be read next.
 
-## Skills and Expertise
+## Skills and Expertise 🧰
 
-- JavaScript
-- 
-- [Skill 3]
-- [Skill 4]
-- [Skill 5]
+- JavaScript, HTML and CSS 💛📘📙
+- React ⚛
+- Node 💚
+- Express 🍏
+- PostgreSQL 🐘
+- Sequelize 💙
+- Auth0 🔐
+- Material UI 💻
+- PayPal SDK 🤑
+- SASS 💅
 
-## Projects
 
-### [Project Name 1](Link to project repository)
 
-[Short project description]
+## Projects 
 
-### [Project Name 2](Link to project repository)
+### [Vivero Henry](https://vivero-henry.vercel.app/)
 
-[Short project description]
+Along with a great and passionate team, we created a plant nursery and supplies e-commerce. 
 
-### [Project Name 3](Link to project repository)
+### [Dogs CRUD](https://dogs-ip.vercel.app/)
 
-[Short project description]
+My very first experience creating a full CRUD, it was exciting and challenging. I really enjoyed the ride.
 
-## Work Experience
 
-### [Company Name](Company website URL)
+## Education 🎓
 
-[Job title] | [Employment duration]
+### Fullstack developer - HENRY
 
-[Job description]
+#### March 2023 🏁
+After more than 5 months that included lots of ups and downs, I can state that I've graduated from a great place, 
 
-### [Company Name](Company website URL)
+## Stats
 
-[Job title] | [Employment duration]
-
-[Job description]
-
-## Education
-
-### [Degree name] from [College/University name]
-
-[Graduation year]
-
-### [Degree name] from [College/University name]
-
-[Graduation year]
-
-## Contributions
-
-- [Project Name 1](Link to contribution)
-- [Project Name 2](Link to contribution)
-- [Project Name 3](Link to contribution)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziocl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
-- GitHub: [Your GitHub Profile URL]
+- [Email](emailto:fabriziocl1990@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fabrizio-castro-l%C3%B3pez-b949b2208/)
