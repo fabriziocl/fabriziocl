@@ -41,7 +41,7 @@ Despite the challenges, I found the project to be a fantastic learning experienc
 
 Overall, Dogs CRUD was an exciting and challenging project that gave me a solid foundation in full-stack web development and sparked my passion for building web applications.
 
-[GitHub front and backend repo](https://github.com/fabriziocl/Dogs)
+##### [GitHub front and backend repo](https://github.com/fabriziocl/Dogs)
 
 ## Education 🎓
 
