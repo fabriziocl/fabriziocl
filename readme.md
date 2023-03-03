@@ -4,7 +4,7 @@ I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very
 
 ## Skills and Expertise 🧰
 
-- JavaScript, HTML and CSS 💛📘📙
+- JavaScript, HTML and CSS 💛📙📘
 - React ⚛
 - Node 💚
 - Express 🍏
