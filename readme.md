@@ -22,7 +22,7 @@ I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very
 ### [Vivero Henry](https://vivero-henry.vercel.app/)
 Vivero Henry is an e-commerce platform for plants and supplies that I developed with a talented team of developers during my time at HENRY. The website was built using modern web development technologies, including React, Redux, Node.js, and PostgreSQL, and is deployed on Vercel and Railway. Our team worked on all aspects of the project, from designing and implementing the user interface to building the backend API and integrating payment and shipping services.
 
-One of the most exciting aspects of working on Vivero Henry was the opportunity to learn and apply new skills in a real-world setting. We tackled complex challenges, such as implementing a custom search function and integrating with third-party APIs, and worked collaboratively to find innovative solutions.
+One of the most exciting aspects of working on Vivero Henry was the opportunity to learn and apply new skills in a real-world setting. I also learned how to collaborate with a team and use version control tools such as Git and GitHub. We tackled complex challenges, such as implementing a custom search function and integrating with third-party APIs, and worked collaboratively to find innovative solutions. 
 
 Overall, the project was a fantastic opportunity to gain hands-on experience with modern web development tools and techniques and to work collaboratively with a team of passionate developers.
 
@@ -37,11 +37,11 @@ To create the application, I used a combination of front-end and back-end techno
 
 One of the most challenging aspects of the project was implementing the CRUD operations in a secure and efficient manner. I had to consider issues such as authentication, data validation, and error handling, which required a deep understanding of the technologies involved.
 
-Despite the challenges, I found the project to be a fantastic learning experience. It allowed me to gain hands-on experience with a wide range of web development tools and techniques, including the PERN stack, RESTful APIs, and CRUD operations. I also learned how to collaborate with a team and use version control tools such as Git and GitHub.
+Despite the challenges, I found the project to be a fantastic learning experience. It allowed me to gain hands-on experience with a wide range of web development tools and techniques, including the PERN stack, RESTful APIs, and CRUD operations.
 
 Overall, Dogs CRUD was an exciting and challenging project that gave me a solid foundation in full-stack web development and sparked my passion for building web applications.
 
-##### [GitHub front and backend repo](https://github.com/fabriziocl/Dogs)
+##### [Front and backend repo](https://github.com/fabriziocl/Dogs)
 
 ## Education 🎓
 
