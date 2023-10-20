@@ -15,6 +15,7 @@ I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very
 - Material UI 💻
 - PayPal SDK 🤑
 - SASS 💅
+- Tailwind CSS 🌬
 
 
 
