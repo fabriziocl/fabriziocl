@@ -6,6 +6,7 @@ I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very
 
 - JavaScript, HTML and CSS 💛📙📘
 - React ⚛
+- Next 🔼
 - Node 💚
 - Express 🍏
 - PostgreSQL 🐘
@@ -18,6 +19,17 @@ I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very
 
 
 ## Projects 👔
+
+### [Personal portfolio](https://fabriziocl-portfolio.vercel.app/)
+My personal portfolio is a compilation of my projects so far. It's something that I had been planning for a long time, ever since graduating the bootcamp. I wanted to portray my ambition to create an application that could use one of the most up-to-date technologies, including Next.js and Tailwind CSS. This experience was a great opportunity for me to learn and gain practical knowledge in the latest web development tools and frameworks. 
+
+I was very hyped about using Tailwind CSS to craft modern and visually appealing designs that could enhance the user experience. Customizing, testing elements, making color combinations and adding responsiveness was made very easy by this great framework.
+I was able to add TypeAnimation, Framer Motion and React Social Icons to provide a more dynamic and attractive style.
+
+It was both challenging and rewarding at the same time to work new technologies, get to know them and keep the fire burning.
+
+##### [Repo](https://github.com/fabriziocl/nextJs-portfolio)
+
 
 ### [Vivero Henry](https://vivero-henry.vercel.app/)
 Vivero Henry is an e-commerce platform for plants and supplies that I developed with a talented team of developers during my time at HENRY. The website was built using modern web development technologies, including React, Redux, Node.js, and PostgreSQL, and is deployed on Vercel and Railway. Our team worked on all aspects of the project, from designing and implementing the user interface to building the backend API and integrating payment and shipping services.
