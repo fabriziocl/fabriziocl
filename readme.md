@@ -13,6 +13,7 @@ I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very
 - Express 🍏
 - PostgreSQL 🐘
 - Sequelize 💙
+- Prisma ORM 💎
 - Auth0 🔐
 - Material UI 💻
 - PayPal SDK 🤑
