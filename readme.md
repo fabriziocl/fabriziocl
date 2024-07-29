@@ -7,6 +7,7 @@ I'm Fabrizio from Buenos Aires, Argentina and I am a fullstack dev. I enjoy very
 - JavaScript, HTML and CSS 💛📙📘
 - React ⚛
 - Next 🔼
+- Nest 🐺
 - Node 💚
 - Express 🍏
 - PostgreSQL 🐘
